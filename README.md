@@ -20,7 +20,7 @@ This website showcases our services, contact details, and company information �
 ---
 
 ## 🛠️ Technologies
-- **HTML5 / CSS3 / JavaScript** *(or React, if used)*  
+- **HTML5 / CSS3 / JavaScript**
 - **GitHub Pages** – free, reliable hosting  
 - **Custom Domain** – `fa-transporte.at`  
 
